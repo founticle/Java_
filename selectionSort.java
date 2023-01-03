@@ -1,3 +1,10 @@
+/* 
+--Time Complexity : Worse case: O(n2)
+                 : Best case: O(n2)
+    
+--Space Complexity : O(1), since additional data structure isn't used apart from inpurt array.
+*/                    
+
 class SelectionSort{
     public static void print_Array(int array[]){
         for(int i=0; i<array.length; i++){
