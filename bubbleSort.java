@@ -2,7 +2,7 @@
 --Time Complexity : Worse case: O(n2)
                  : Best case: O(n)
     
---Space Complexity : O(1), since constant amount of additional memory is used apart from inpurt array.
+--Space Complexity : O(1), since constant amount of additional memory is used apart from input array.
 */                    
 
 class BubbleSort {
